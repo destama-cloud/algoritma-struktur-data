@@ -9,6 +9,7 @@ public class StudentDemo {
         this.nim = nim;
         this.className = className;
         this.grade = -1; // -1 means not yet graded
+        
     }
 
     public void grading(int grade) {
